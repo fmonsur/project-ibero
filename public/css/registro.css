@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url("../../public/img/bg-index-1.jpg");
+}
+.row{
+    background: rgba(25, 25, 25, 0.5);
+}
+label{
+    color: #fff;
+}
